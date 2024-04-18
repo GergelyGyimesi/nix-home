@@ -61,7 +61,7 @@
   "terminal.integrated.defaultProfile.osx": "fish",
   "terminal.integrated.profiles.osx": {
     "fish": {
-      "path": "/Users/pwm/.nix-profile/bin/fish",
+      "path": "/Users/ggartificial/.nix-profile/bin/fish",
       "args": [
         "-l"
       ]

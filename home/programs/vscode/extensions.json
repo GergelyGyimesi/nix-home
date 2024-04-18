@@ -90,12 +90,6 @@
     "sha256": "0k10d77ffl6ybmk7mrpmlsawzwppp87aix2a2i24jq7lqnnqb9n7"
   },
   {
-    "name": "lua",
-    "publisher": "sumneko",
-    "version": "3.7.4",
-    "sha256": "13hx8il6llf3999qs7qd01dfmm0k99wp73rqzpk1mr8yzl06s497"
-  },
-  {
     "name": "mermaid-markdown-syntax-highlighting",
     "publisher": "bpruitt-goddard",
     "version": "1.6.1",
